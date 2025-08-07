@@ -1,5 +1,3 @@
-Sure! Here’s your polished **README.md** merging your project report content with the earlier README structure for a clean, professional, and comprehensive document:
-
 # House Price Prediction
 
 ## Introduction
